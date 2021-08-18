@@ -1,5 +1,3 @@
-
-cd C:\Users\User\Downloads\SA
 echo copy your credential.json file to SA folder.
 echo after copied press Enter
 read varpause
